@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208079489703",
+    "project_id": "uthauth-7f875",
+    "storage_bucket": "uthauth-7f875.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208079489703:android:c7516ca879a22f31b66982",
+        "android_client_info": {
+          "package_name": "ut.edu.uthauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyfPcULsCEO762YkgqJAtbO85aYZ8rB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
